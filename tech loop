@@ -1,0 +1,59 @@
+dec 18 , 2024 
+
+i think i need to think about all the thing's that i have done or tried to do while i have free time to do somethig , i think i am currently in a very confused position 
+about what to do next , there is so much things that i can learn or invest my time in , some options that i like are : 
+investing time learning a programming language deeply , like javascript , python , java , c++ , there are many options (language)
+try to learn by making some projects along with a youtube project tutorial , using completely unknown tools (unknown-projects)
+learning the math's and computer science concept's that will be required in ai-ml and data-science (math)
+start to do more experiment's with existing AI and how they work , starting with LLM's , atleast try to do something other than just being a consumer (ai)
+
+i know they are completely diffrent thing's or maybe connected , they have to be  , and it's like i am trying to build an app after just learning how to print hello wordld
+but i am enjoying it , atleast the felling of learning something new everyday or in a period of time , currently my thinking process about all this is like : 
+
+i do have a fomo about all this , about not learning emerging technologies , and not learning enough about diffrent fields . for me all this about trying to learn 
+everyting about all this (tech) , or at the very least have a basic idea of every tool available is based on the thought that <tech> is the new computer , like how 
+computer's were when they cane out , and started to become a part of everthing , <tech> should be like this , it's just a possibility but if it came true then i atleast 
+have to have some basic knowledge about operating a computer , write an email , store my data into files and try to edit those files, if i can and also to 
+earn money
+
+i would like to expllain my <tech>  knowledge here , all about what i learned and how i would like to proceed from now , this is for future reference , and will
+be recorded here as either a [first step] or a [remnant] of my tech journey .
+
+for me <tech> is about developing thing's  , it could be a code , an app , a webPage ,or anything that is accesible through my hardware , i am only considering 
+software side of things , i would like to get a idea about how hardware works , and how do they interact with diffrent softwares , but that will be too much to focus into 
+i realized all thing'a do work by code written by someone , and it's really magical , how using basic 0 and 1 , and their infinite possibilitie's we can make anything
+write a program that uses a written program , that use's another program , and finally that uses the hardware transistor's to light diffrent lightbulbs 
+now i do have a grasp of how difficult it would have benn to make a gpu to run a AAA game at high fps , and how everything is just a series of moment's drawn on a canvas 
+very basic but really cool thing 
+
+i do know that everything is going to be connected in the future via <ai> or some oher daily life things build around ai , will Ai be the new computer ot <tech> i dont know
+neither i want to think about it , i do know they need an effiecient hardware , data management and filtering , a lot of power , an interface to use : a command or 
+a request , lot of networking , pattern recognition , and fast-filtered data input's   , that will basically cover every single roadmap , and i am trying to 
+learn the learning after coding , the main deveopement or creative process 
+i do want to create an ai model , for that i will :
+  first experiment with local model's ,like llama , flux , eleven labs 
+  try to fine tune them , i think something called lora is used for this 
+  connect diffrent local model's seamlessly , to create a virtual identity (vi)
+  try to do the same by online models , at that time ,there will be ai agents 
+  (it's the final project , and has a very high chance of failure , but i will try it once atleasy )
+
+to make <vi> happen , i have to learn about <ai> deeply , how do they work? , i know they are trained on data with text embedding and uses probabilities to access 
+next process or next output 
+
+python is very popular and is used in many data related tasks , so i will learn it , soome basic packages , some specific packages , and now do deal with data 
+javaScript is very popular and is used to develop webpages , and the logic behind it 
+nodeJs is useful to make backend side of thing's , uses javascript
+React is also useful in making webpage that dosent require to reload , what's it called ? . snu or something ?
+vite is used in something i dont know what , maybe connecting backend to frontend ? , but
+external ui's like chakra-ui , help to reduce coding process , as for database's , there's sql and mongodb , i dont know how sql work's
+but i have an idea about how mongoDB works , with a connection string ,and collectios of data 
+
+object oriented programming is just another thing after c programming , there you actually develope something without worrying about how that thing is done , for me 
+it's like building a house but not from scratch like construction but just the interior designig and decoration's , dont need to worry about how do they stand their
+neither inside fitting , you being some external package you use them 
+
+game engibes are another kind of <tech> , i didn't have the chance to try them out and develop even a mario game , but i think they work like making something with 
+lego piece's and fine tunig them , using small lego piece's 
+
+and that's all , i though i learned a lot but now that i see it , it's just very small , not even a useful code could be written with this , i hope to find something
+that will help me get out from this <tech loop> 
